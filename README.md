@@ -50,7 +50,7 @@
 
 ``````
 ## PROGRAM:
-```
+```python
 from collections import defaultdict
 H_dist ={}
 def aStarAlgo(start_node, stop_node):
@@ -157,7 +157,7 @@ J 0 <br>
 Path found: ['A', 'F', 'G', 'I', 'J']
 
 ## PROGRAM:
-```
+```python
 #define fuction to return neighbor and its distance
 #from the passed node
 def get_neighbors(v):
